@@ -2,6 +2,7 @@ https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset 의 수�
 딥러닝을 통하여 수화를 인식하는 프로젝트입니다
 
 수화는 총27종류 존재하며 ASL수화를 사용합니다
+![수화종류](https://github.com/gray-spade/Portfolio/assets/52790712/4e1fc6a9-a033-4b3a-b7b7-a6f2a8d966d8)
 
 텐서플로우와 케라스를 사용했으며
 
