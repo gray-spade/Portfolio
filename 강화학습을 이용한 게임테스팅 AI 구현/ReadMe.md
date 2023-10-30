@@ -6,10 +6,10 @@ pytorch를 사용하였고 환경으론 Pysc2의 CollectMineralShards를 사용�
 
 강화학습의 환경에서 요구되는 정보는 3가지가 있으며 각각 관측(Observation),행동(Action),보상(Reward)입니다
 
-이 환경에선 
+이 환경에선 아래와같이 정의 되어 있습니다
 ![image](https://github.com/gray-spade/Portfolio/assets/52790712/239850af-373b-42c9-8438-b1761c34ea75)
 
-로 정의 되어 있습니다
+
 
 Pysc2에서 제공하는Observation은 
 ![image](https://github.com/gray-spade/Portfolio/assets/52790712/e8b7fbf5-7d67-494c-8b7f-dba09e5a7a0a)
