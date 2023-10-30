@@ -1,0 +1,6 @@
+open 500 500
+addline 0 0 50 50
+addline 100 100 50 50
+addline 100 0 50 50
+addrect 100 100 100 100
+
