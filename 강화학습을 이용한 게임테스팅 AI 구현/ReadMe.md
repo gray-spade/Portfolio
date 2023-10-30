@@ -19,3 +19,14 @@ Pysc2에서 제공하는Observation은
 ![image](https://github.com/gray-spade/Portfolio/assets/52790712/345ae690-68f0-4339-9783-c366ceed8f08)
 
 이 3개 뿐임으로 이3개만 따로 가져와서 학습에 사용합니다.
+각각 
+
+선택된 유닛정보
+
+모든 유닛의 정보
+
+마지막으로 한 행동정보
+
+를 담고있습니다.
+
+학습 알고리즘은 DDQN을 사용하였으며
