@@ -52,7 +52,8 @@ https://github.com/gray-spade/Portfolio/assets/52790712/8683503b-7a72-4527-8081-
 
 아래와 같은 차이를 보이는것을 확인할수있습니다
 
-![image](https://github.com/gray-spade/Portfolio/assets/52790712/c6615913-25c8-4cab-95d2-939a1a02abde)
+![image](https://github.com/gray-spade/Portfolio/assets/52790712/374b74fc-be67-45f9-8d42-7c6bd1579098)
+
 
 
 
