@@ -47,14 +47,14 @@ https://github.com/gray-spade/Portfolio/assets/52790712/8683503b-7a72-4527-8081-
 
 환경을 아래와 같이 변화 하였을때
 
-![image](https://github.com/gray-spade/Portfolio/assets/52790712/6e305423-8290-43ee-b795-882ae56a4a59)
-
+![image](https://github.com/gray-spade/Portfolio/assets/52790712/84bd56b1-75dd-4d69-a702-cb835e91d88d)
 
 아래와 같은 차이를 보이는것을 확인할수있습니다
 
 ![image](https://github.com/gray-spade/Portfolio/assets/52790712/374b74fc-be67-45f9-8d42-7c6bd1579098)
 
 
+![image](https://github.com/gray-spade/Portfolio/assets/52790712/6e305423-8290-43ee-b795-882ae56a4a59)
 
 
 
