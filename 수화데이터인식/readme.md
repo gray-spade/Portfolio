@@ -1,3 +1,4 @@
+![image](https://github.com/gray-spade/Portfolio/assets/52790712/c3174a92-979c-4f07-a3d8-7c2373bb29b5)
 https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset 의 수화데이터를 
 딥러닝을 통하여 수화를 인식하는 프로젝트입니다
 
