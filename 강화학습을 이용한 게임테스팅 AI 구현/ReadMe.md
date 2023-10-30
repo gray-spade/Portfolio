@@ -35,3 +35,6 @@ Pysc2에서 제공하는Observation은
 
 신경망은 63-512-128-24의 형태로 구성되어있습니다.
 
+https://github.com/gray-spade/Portfolio/assets/52790712/8683503b-7a72-4527-8081-b6b1c38138a2
+
+
