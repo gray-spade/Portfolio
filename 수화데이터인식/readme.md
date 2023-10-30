@@ -8,9 +8,16 @@ https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset 의 수�
 
 2.1~0의 숫자 및 16개의 기본 회화 언어,NULL의 27가지의 데이터로구성된 22801개의 128X128크기의 데이터셋 을 사용해 학습하였고
 
-텐서플로우와 케라스를 사용했으며
+텐서플로우와 케라스를 사용하여 CNN으로 구현되었으며
 
-넘파이 및 사이킷런도 사용되어있습니다
+데이터셋의 90%를 학습에 사용하고 나머지 10%를 테스트에 사용하여 결과를 확인하였습니다
+
+![image](https://github.com/gray-spade/Portfolio/assets/52790712/7c12ab06-0bfe-4c74-b1ea-aaeb5eae5b8a)
+
+정확도80%
+Loss 0.75
+
+정도의 정확도가 나타나고
 
 ![image](https://github.com/gray-spade/Portfolio/assets/52790712/8a7cca43-5b8c-492f-a1a5-3fde6e689cfb)
 
