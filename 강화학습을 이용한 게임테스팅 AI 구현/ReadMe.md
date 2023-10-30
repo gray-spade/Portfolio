@@ -57,7 +57,7 @@ https://github.com/gray-spade/Portfolio/assets/52790712/8683503b-7a72-4527-8081-
 ![image](https://github.com/gray-spade/Portfolio/assets/52790712/6e305423-8290-43ee-b795-882ae56a4a59)
 
 
-
+이를통하여 변인이 미치는 영향을 직접 사람이 실험하지 않더라도 미리 테스트해볼수있다는 점을 확인이 가능합니다
 
 
 
