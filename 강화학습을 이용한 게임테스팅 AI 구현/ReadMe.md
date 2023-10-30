@@ -35,6 +35,19 @@ Pysc2에서 제공하는Observation은
 
 신경망은 63-512-128-24의 형태로 구성되어있습니다.
 
+이와같이 학습을 진행하면 아래와 같은 모습을 보여주게 됩니다.
+
 https://github.com/gray-spade/Portfolio/assets/52790712/8683503b-7a72-4527-8081-b6b1c38138a2
+
+학습 결과를 그래프로 나타내면
+
+![image](https://github.com/gray-spade/Portfolio/assets/52790712/49261e93-fe22-466e-bb68-6c288aa2af70)
+
+와 같이 보상이 점점 늘어나며 안정적이게 변화하는걸 확인할수있고
+
+호
+
+
+
 
 
