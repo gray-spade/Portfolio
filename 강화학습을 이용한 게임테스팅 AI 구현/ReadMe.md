@@ -4,4 +4,9 @@ pytorch를 사용하였고 환경으론 Pysc2의 CollectMineralShards를 사용�
 
 ![image](https://github.com/gray-spade/Portfolio/assets/52790712/5d5abb80-886b-411d-ac30-625f5143a567)
 
-![image](https://github.com/gray-spade/Portfolio/assets/52790712/a023d031-051a-4ea6-b3a8-fdf0dc9d3096)
+강화학습의 환경에서 요구되는 정보는 3가지가 있으며 각각 관측(Observation),행동(Action),보상(Reward)입니다
+
+이 환경에선 
+![image](https://github.com/gray-spade/Portfolio/assets/52790712/239850af-373b-42c9-8438-b1761c34ea75)
+
+로 정의 되어 있습니다
