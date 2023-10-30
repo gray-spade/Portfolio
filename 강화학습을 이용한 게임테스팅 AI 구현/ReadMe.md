@@ -3,3 +3,5 @@
 pytorch를 사용하였고 환경으론 Pysc2의 CollectMineralShards를 사용하였습니다
 
 ![image](https://github.com/gray-spade/Portfolio/assets/52790712/5d5abb80-886b-411d-ac30-625f5143a567)
+
+![image](https://github.com/gray-spade/Portfolio/assets/52790712/a023d031-051a-4ea6-b3a8-fdf0dc9d3096)
