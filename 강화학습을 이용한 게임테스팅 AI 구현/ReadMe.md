@@ -10,3 +10,12 @@ pytorch를 사용하였고 환경으론 Pysc2의 CollectMineralShards를 사용�
 ![image](https://github.com/gray-spade/Portfolio/assets/52790712/239850af-373b-42c9-8438-b1761c34ea75)
 
 로 정의 되어 있습니다
+
+Pysc2에서 제공하는Observation은 
+![image](https://github.com/gray-spade/Portfolio/assets/52790712/e8b7fbf5-7d67-494c-8b7f-dba09e5a7a0a)
+
+이렇게 구성되어 있는데 이번 프로젝트에서 필요한건 
+
+![image](https://github.com/gray-spade/Portfolio/assets/52790712/345ae690-68f0-4339-9783-c366ceed8f08)
+
+이 3개 뿐임으로 이3개만 따로 가져와서 학습에 사용합니다.
